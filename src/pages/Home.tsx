@@ -8,8 +8,6 @@ return (
     <Navbar />
     <AboutMe />
     <Contact />
-    
-
     </>
    
 )
